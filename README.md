@@ -5,4 +5,4 @@ Automated testing has been widely used to ensure the quality of Android applicat
 
 ![workflow](workflow.png)
 
-The vedio of the tool can be seen at: url.
+## The vedio of the tool can be seen at: url.
