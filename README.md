@@ -1,6 +1,6 @@
 # ABR
 
-## The vedio of the tool can be seen at: https://youtu.be/hALyNN4shBg.
+## The vedio of the tool can be seen at: https://youtu.be/wLQcBay4yuM.
 
 ## Assembling Bug Report of Automated Android Testing on Multi-Devices
 
