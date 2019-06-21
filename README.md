@@ -1,6 +1,6 @@
 # FuRong
 
-## The vedio of the tool can be seen at: https://youtu.be/acmSsjZRXXE.
+## The vedio of the tool can be seen at: https://youtu.be/8la5ATujnAI
 
 ## Fusing Report of Automated Android Testing on Multi-Devices
 
